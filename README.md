@@ -1,5 +1,13 @@
 # Lottery-React
 
+# Function :
+
+Lottery app that registers a manager, players, and funds to be contributed and won.
+
+Built with MetaMask, the Rinkeby test network, Remix and Infura.
+
+The smart contact logic resides in Lottery.sol (https://github.com/prateeksawhney97/Lottery-Smart-Contract-Ethereum) and this repository contains the front-end page built with create-react-app.
+
 # Screenshots :
 
 ![screenshot from 2018-10-23 12-17-30](https://user-images.githubusercontent.com/34116562/47343758-7e8e7700-d6c4-11e8-8c8f-9a6b8d0e3f27.png)
