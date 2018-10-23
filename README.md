@@ -3,8 +3,10 @@
 # Function :
 
 Lottery app that registers a manager, players, and funds to be contributed and won.
+
 Built with MetaMask, the Rinkeby test network, Remix and Infura.
-The smart contact logic resides in Lottery.sol (https://github.com/prateeksawhney97/Lottery-Smart-Contract-Ethereum) and this repository contains the front-end page built with create-react-app.
+
+The smart contract logic resides in Lottery.sol (https://github.com/prateeksawhney97/Lottery-Smart-Contract-Ethereum) and this repository contains the front-end page built with create-react-app.
 
 # How it works :
 
